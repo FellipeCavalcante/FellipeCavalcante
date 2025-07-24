@@ -42,8 +42,8 @@ I am a passionate Back-end developer currently in my **fourth of six semesters**
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <!-- <a href="https://github.com/FellipeCavalcante">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeCavalcante&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> -->
+   <a href="https://github.com/FellipeCavalcante">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeCavalcante&layout=compact&langs_count=7&theme=dracula&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeCavalcante&theme=dracula&bg_color=00000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true"/>
   </a>
 </div>
